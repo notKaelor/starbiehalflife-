@@ -28,6 +28,7 @@ The stats change when u shake the board or when u pick an action.
 What are the actions? welp the pet can nap play be fed or be petted. each action changes the stats and triggers an animation.
 the program consists of a loop that repeats continuosly
 and the sprite of the pet is displayed by a couple of arrays. (mine has different arrays cuz i changed the default pet)
+
 <img width="289" height="612" alt="image" src="https://github.com/user-attachments/assets/1d4f1802-2d31-4d88-b788-198b981b054d" />
 
 
