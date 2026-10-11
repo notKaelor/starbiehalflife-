@@ -14,20 +14,25 @@ Here u can see my first schematics using kicad yayy
 The star didnt look that good to me so i decided to replace it with some bee themed stuff, for the pcb i changed the shape to an hexagon
 
 Here is an image of the pcb in the 3d viewer 
+
 <img width="1683" height="914" alt="image" src="https://github.com/user-attachments/assets/014852d8-4b4a-42e7-95e2-0a1a6999dd8a" />
 
 Then i changed the default desktop pet to one that suits the theme. Sooo heres a preview of the sprite ive made:
+
 <img width="446" height="436" alt="image" src="https://github.com/user-attachments/assets/e29b7233-94c5-49f7-8ae6-97c87beb333a" />
 
 I expect to make some changes later because im not satisfied with how the thing is right now but i had fun learning how to tinker with new software.
 
 How does this work?
-Thats a great question i asked myself. Everything revolves around a xiao esp32c3, a sensor called MPU6050, a DHT11 sensor for temperature and humidity, also two buttons and a OLED display
+Thats a great question i asked myself. 
+Everything revolves around a xiao esp32c3, a sensor called MPU6050, a DHT11 sensor for temperature and humidity, also two buttons and a OLED display
+
 The firmware is always in one of three views, the pet view, the menu or the stats view.
 The stats change when u shake the board or when u pick an action.
-What are the actions? welp the pet can nap play be fed or be petted. each action changes the stats and triggers an animation.
-the program consists of a loop that repeats continuosly
-and the sprite of the pet is displayed by a couple of arrays. (mine has different arrays cuz i changed the default pet)
+
+What are the actions? 
+welp the pet can nap play be fed or be petted. each action changes the stats and triggers an animation.
+the program consists of a loop that repeats continuosly and the sprite of the pet is displayed by a couple of arrays. (mine has different arrays cuz i changed the default pet)
 
 <img width="289" height="612" alt="image" src="https://github.com/user-attachments/assets/1d4f1802-2d31-4d88-b788-198b981b054d" />
 
