@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.mercadolibre.com.ar/esp32-c3-ultra-compact-wifi-bluetooth-dfhvgslideu/p/MLA2099193225?pdp_filters=item_id%3AMLA4058569110#polycard_client=search-desktop&be_origin=searchv2&overlay_label=not_apply&search_layout=grid&position=2&type=product&tracking_id=0f8b665c-0741-4545-8499-bc9c0ec52a90&wid=MLA4058569110&sid=search) | main brain of starbie | 1 | $16.07 | $16.07 | [CNZHENGZHOUXIYANGDIANZIARR](https://www.mercadolibre.com.ar/esp32-c3-ultra-compact-wifi-bluetooth-dfhvgslideu/p/MLA2099193225?pdp_filters=item_id%3AMLA4058569110#polycard_client=search-desktop&be_origin=searchv2&overlay_label=not_apply&search_layout=grid&position=2&type=product&tracking_id=0f8b665c-0741-4545-8499-bc9c0ec52a90&wid=MLA4058569110&sid=search) |
 | **Parts subtotal** | — | — | — | **$16.07** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.07** | — |
+| **Tax & shipping** | — | — | — | **$12.60** | — |
+| **Total** | — | — | — | **$28.67** | — |
 
-$13.93 left of the tier's funding.
+$1.33 left of the tier's funding.
